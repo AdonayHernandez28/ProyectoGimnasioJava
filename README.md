@@ -1,5 +1,5 @@
 
-# DESCRIPPCION DE MEJORAS Y JUSTIFICACION
+# DESCRIPCION DE MEJORAS Y JUSTIFICACION
 
 Mis mejoras añadidas serian, en primer lugar para que no haya errores se verificara siempre el nombre del GYM, en segundo lugar no se prodan registrar usuarios que ya lo estan, y en tercer lugar tendra un pequeño control sobre la cantidad de usuarios que puedan registrarse.
 
